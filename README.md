@@ -11,7 +11,7 @@ Por lo que una vez terminadas las 3 etapas se debería tener 1 archivo .py con e
 ## Infraestructura 
 
 <p align="center">
-  <img src="Postas/Infra.png" alt="Infraestructura Hackathon"/>
+  <img src="Postas/InfraTW.png" alt="Infraestructura Hackathon"/>
 </p>
 
 La infra consiste en un **Wireless Lan Controller 9800** (el cual será el caso de estudio) mas una **VM** con el nombre 'HT22' y **Python 3** ya instalado, la cual tiene resuelta la conexión **SSH** hacia el laboratorio que contienen al **WLC**.
