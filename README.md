@@ -21,11 +21,12 @@ La infra consiste en un **Wireless Lan Controller 9800** (el cual será el caso 
 > Se le proporcionará a cada grupo la IP, User y Password de 'HT22', y la IP y User del **WLC** para que puedan trabajar.
 >
 > WLC9800:
-> - IP = xx.xx.xxx.x (ip del wlc)
-> - USER = root
+> - IP = 10.54.109.10X (ip del wlc)
+> - USER = admin
+> - PASS = hackathon
 >
 > HT22:
-> - Conexión = ssh h2022-grpNN@xxx.xxx.xxx.xx (ip de la vm)
+> - Conexión = ssh h2022-grpNN@10.54.118.3 (ip de la vm)
 
 ## Comandos Linux utiles
 No es obligatorio el conocimiento profundo de manejo de CLI Linux ya que ejecutaremos tareas basicas.
