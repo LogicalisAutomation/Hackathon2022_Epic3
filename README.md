@@ -25,7 +25,7 @@ La infra consiste en un **Wireless Lan Controller 9800** (el cual será el caso 
 > - USER = root
 >
 > HT22:
-> - Conexión = ssh -p 55522 h2022-grpNN@xxx.xxx.xxx.xx (ip de la vm)
+> - Conexión = ssh h2022-grpNN@xxx.xxx.xxx.xx (ip de la vm)
 
 ## Comandos Linux utiles
 No es obligatorio el conocimiento profundo de manejo de CLI Linux ya que ejecutaremos tareas basicas.
