@@ -1,4 +1,4 @@
-# Hackathon2022_Epic1
+# Hackathon2022_Epic2
 
 Este es el segundo evento de la serie en el cual se busca generar una competencia (amigable) en la busqueda de una plaza para el 3er evento y final que se va a llevar a cabo en el ultimo dia del TechWeek2022 el día 11/11.
 
@@ -75,7 +75,7 @@ No es obligatorio el conocimiento profundo de manejo de CLI Linux ya que ejecuta
 Escribir un código en Python que mantenga activa una interfaz del router.
 
 ### Postas
-- 1.1 – [Validación y manejo de IP's](Postas/P1.md)
+- 1.1 – [Validación y manejo de direcciones IP](Postas/P1.md)
 - 1.2 – [Remediación continua de Interfaz](Postas/P2.md)
 - 1.3 – [Security compliance](Postas/P3.md)
 
