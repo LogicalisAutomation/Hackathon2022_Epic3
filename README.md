@@ -28,7 +28,7 @@ La infra consiste en un **Wireless Lan Controller 9800** (el cual será el caso 
 
 > Se le proporcionará a cada grupo la IP, User y Password de 'HT22', y la IP y User del **WLC** para que puedan trabajar.
 
-A infra é composta por um Wireless Lan Controller 9800 (que será o caso de estudo) mais uma VM com o nome 'HT22' e Python 3 já instalado, que possui a conexão SSH com o laboratório que contém o WLC resolvido.
+A infra é composta por um **Wireless Lan Controller 9800** (que será o caso de estudo) mais uma VM com o nome 'HT22' e **Python 3** já instalado, que possui a conexão **SSH** com o laboratório que contém o **WLC** resolvido.
 
 > Neste último 'HT22' é nele que devemos trabalhar, escrevendo nossos códigos e gerando nossos diretórios de trabalho.
 
