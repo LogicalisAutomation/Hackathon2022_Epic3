@@ -1,6 +1,6 @@
 # Hackathon2022_Epic2
 
-Este es el segundo evento de la serie en el cual se busca generar una competencia (amigable) en la busqueda de una plaza para el 3er evento y final que se va a llevar a cabo en el ultimo dia del TechWeek2022 el día 11/11.
+Este es el segundo evento de la serie en el cual se busca generar una competencia (amigable) en la busqueda de una plaza para el 3er evento y final que se va a llevar a cabo en el ultimo dia del TechWeek2022 el día 17/11.
 
 Para esto se les pedirá completar 2 postas, las cuales son individuales pero complementarias, por lo que se puede escribir todo en un mismo codigo con el nombre epic2_grupo_n.py (siendo 'n' el numero del grupo).
 
