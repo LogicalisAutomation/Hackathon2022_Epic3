@@ -21,7 +21,7 @@ La infra consiste en un **Wireless Lan Controller 9800** (el cual será el caso 
 > Se le proporcionará a cada grupo la IP, User y Password de 'HT22', y la IP y User del **WLC** para que puedan trabajar.
 >
 > WLC9800:
-> - IP = (Se encuentra en el Excel)
+> - IP = Se encuentra en la [planilla](Archivos/Credenciales.png)
 > - USER = admin
 > - PASS = hackathon
 >
