@@ -6,7 +6,7 @@
   <img src="infraTW.png" alt="Infraestructura Hackathon"/>
 </p>
 
-[Leer en Español](P1_P.md)
+[Leer en Español](P1.md)
 
 # Posta 1 - Ativar SSH
 ## Meta
