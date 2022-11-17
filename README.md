@@ -69,8 +69,8 @@ No es obligatorio el conocimiento profundo de manejo de CLI Linux ya que ejecuta
 Escribir un código en Python que en principio mantenga la conexión por SSH activada y luego otro que contenga un menú interactivo con distintas tareas.
 
 ### Postas / fases
-- 1.1 – [Habilitar SSH](Postas/P1.md)
-- 1.2 – [Menú](Postas/P2.md)
+- 1.1 – [Habilitar SSH](Postas/P1_P.md)
+- 1.2 – [Menú](Postas/P2_P.md)
 
 ## Validación de las etapas
 Se le pedirá que guarde, desde el programa, el output del código en un directorio previamente creado (‘$HOME/output/’) con el nombre ‘posta_n.txt’ (siendo 'n' el numero de posta)
