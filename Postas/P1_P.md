@@ -6,9 +6,9 @@
   <img src="infraTW.png" alt="Infraestructura Hackathon"/>
 </p>
 
-[Leia em espanhol](P1_P.md)
+[Leer en Español](P1_P.md)
 
-# Posta 1 - Habilitar SSH
+# Posta 1 - Ativar SSH
 ## Meta
 Neste post devemos escrever um código em python para Habilitar SSH pela API REST, atendendo aos seguintes requisitos:
 
