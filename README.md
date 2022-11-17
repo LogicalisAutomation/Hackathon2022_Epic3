@@ -1,5 +1,7 @@
 # Hackathon2022_Epic3
 
+[Leer en Portugués](README_P.md)
+
 Este es el tercer y ultimo evento de la serie en el cual se busca generar una competencia (amigable) en la busqueda de "La Copa del Mundo" que se va a llevar a cabo en el ultimo dia del TechWeek2022 el día 17/11.
 
 Para esto se les pedirá completar 2 postas, las cuales son individuales pero complementarias, por lo que se puede escribir todo en un mismo codigo con el nombre epic2_grupo_n.py (siendo 'n' el numero del grupo).
@@ -7,14 +9,6 @@ Para esto se les pedirá completar 2 postas, las cuales son individuales pero co
 > Este codigo se pedirá ser escrito en el lenguaje Python, por lo que se debe tener un conocimiento previo del mismo.
 
 Por lo que una vez terminadas las 2 etapas se debería tener 1 o 2 archivos .py con el codigo para validar las tareas + los archivos de texto que se pidan crear (si es que se piden).
-
-Este é o terceiro e último evento da série em que busca gerar uma competição (amistosa) em busca da “Copa do Mundo” que acontecerá no último dia da TechWeek2022 no dia 17/11.
-
-Para isso, serão solicitados a completar 2 postagens, que são individuais mas complementares, para que tudo possa ser escrito no mesmo código com o nome epic2_grupo_n.py (onde 'n' é o número do grupo).
-
-> Este código será solicitado a ser escrito na linguagem Python, portanto você deve ter conhecimento prévio dela.
-
-Portanto, uma vez concluídas as 2 etapas, você deve ter 1 ou 2 arquivos .py com o código para validar as tarefas + os arquivos de texto que são solicitados a serem criados (se solicitados).
 
 ## Infraestructura
 
@@ -27,12 +21,6 @@ La infra consiste en un **Wireless Lan Controller 9800** (el cual será el caso 
 > En este ultimo 'HT22' es en el cual nosotros debemos trabajar, escribiendo nuestros codigos y generando nuestros directorios de trabajo.
 
 > Se le proporcionará a cada grupo la IP, User y Password de 'HT22', y la IP y User del **WLC** para que puedan trabajar.
-
-A infra é composta por um **Wireless Lan Controller 9800** (que será o caso de estudo) mais uma VM com o nome 'HT22' e **Python 3** já instalado, que possui a conexão **SSH** com o laboratório que contém o **WLC** resolvido.
-
-> Neste último 'HT22' é nele que devemos trabalhar, escrevendo nossos códigos e gerando nossos diretórios de trabalho.
-
-> Cada grupo receberá o IP, Usuário e Senha do 'HT22', e o IP e Usuário do WLC para que possam trabalhar
 
 ## Comandos Linux utiles
 No es obligatorio el conocimiento profundo de manejo de CLI Linux ya que ejecutaremos tareas basicas.
@@ -79,8 +67,6 @@ No es obligatorio el conocimiento profundo de manejo de CLI Linux ya que ejecuta
 
 ## Objetivo final
 Escribir un código en Python que en principio mantenga la conexión por SSH activada y luego otro que contenga un menú interactivo con distintas tareas.
-
-Escreva um código em Python que inicialmente mantenha a conexão SSH habilitada e depois outro que contenha um menu interativo com diferentes tarefas.
 
 ### Postas / fases
 - 1.1 – [Habilitar SSH](Postas/P1.md)
