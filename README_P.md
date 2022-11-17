@@ -21,6 +21,8 @@ A infra é composta por um **Wireless Lan Controller 9800** (que será o caso de
 > Neste último 'HT22' é nele que devemos trabalhar, escrevendo nossos códigos e gerando nossos diretórios de trabalho.
 
 > Cada grupo receberá o IP, Usuário e Senha do 'HT22', e o IP e Usuário do WLC para que possam trabalhar
+>
+> [Planilha WLC](Postas/WLC.png)
 
 ## Comandos Linux utiles
 No es obligatorio el conocimiento profundo de manejo de CLI Linux ya que ejecutaremos tareas basicas.
