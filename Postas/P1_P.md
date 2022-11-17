@@ -54,7 +54,7 @@ Neste post devemos escrever um código em python para Habilitar SSH pela API RES
 > Solicitar endereço: 
 > -  https://10.54.109.X:443/restconf/data/Cisco-IOS-XE-native:native/line/vty
 > 
-> X: Endereço de cada grupo
+> X: [Endereço de cada grupo](WLC.png)
 > 
 
 ## Contexto
