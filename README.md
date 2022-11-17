@@ -74,7 +74,3 @@ Escribir un código en Python que en principio mantenga la conexión por SSH act
 
 ## Validación de las etapas
 Se le pedirá que guarde, desde el programa, el output del código en un directorio previamente creado (‘$HOME/output/’) con el nombre ‘posta_n.txt’ (siendo 'n' el numero de posta)
-
-Validação das etapas
-
-Será solicitado que você salve, do programa, a saída do código em um diretório previamente criado (‘$HOME/output/’) com o nome ‘post_n.txt’ (onde ‘n’ é o número do post)
