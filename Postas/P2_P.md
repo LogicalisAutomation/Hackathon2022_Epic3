@@ -6,7 +6,7 @@
   <img src="infraTW.png" alt="Infraestructura Hackathon"/>
 </p>
 
-[Leia em espanhol](P2.md)
+[Leer en Español](P2.md)
 
 # Posta 2 - Menú
 ## Meta
