@@ -35,7 +35,7 @@ Neste post devemos escrever um código em python para Habilitar SSH pela API RES
 
 > Metodos HTTP:
 > - GET
-> - PUT
+> - PATCH
 
 
 > Credenciais:
