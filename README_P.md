@@ -1,6 +1,6 @@
 # Hackathon2022_Epic3
 
-[Leia em espanhol](README.md)
+[Leer en Español](README.md)
 
 Este é o terceiro e último evento da série em que busca gerar uma competição (amistosa) em busca da “Copa do Mundo” que acontecerá no último dia da TechWeek2022 no dia 17/11.
 
@@ -70,8 +70,8 @@ No es obligatorio el conocimiento profundo de manejo de CLI Linux ya que ejecuta
 Escreva um código em Python que inicialmente mantenha a conexão SSH habilitada e depois outro que contenha um menu interativo com diferentes tarefas.
 
 ### Postas / fases
-- 1.1 – [Habilitar SSH](Postas/P1.md)
-- 1.2 – [Menú](Postas/P2.md)
+- 1.1 – [Ativar SSH](Postas/P1_P.md)
+- 1.2 – [Menú](Postas/P2_P.md)
 
 ## Validação das etapas
 
