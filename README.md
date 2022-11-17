@@ -6,6 +6,14 @@ Para esto se les pedirá completar 2 postas, las cuales son individuales pero co
 
 > Este codigo se pedirá ser escrito en el lenguaje Python, por lo que se debe tener un conocimiento previo del mismo.
 
+
+Este é o terceiro e último evento da série em que busca gerar uma competição (amistosa) em busca da “Copa do Mundo” que acontecerá no último dia da TechWeek2022 no dia 17/11.
+
+Para isso, serão solicitados a completar 2 postagens, que são individuais mas complementares, para que tudo possa ser escrito no mesmo código com o nome epic2_grupo_n.py (onde 'n' é o número do grupo).
+
+> Este código será solicitado a ser escrito na linguagem Python, portanto você deve ter conhecimento prévio dela.
+
+
 Por lo que una vez terminadas las 2 etapas se debería tener 1 o 2 archivos .py con el codigo para validar las tareas + los archivos de texto que se pidan crear (si es que se piden).
 
 Este é o segundo evento da série em que se busca gerar uma competição (amistosa) na busca por uma vaga para o 3º e último evento que acontecerá no último dia da TechWeek2022 no dia 17/11.
@@ -15,6 +23,17 @@ Para isso, será solicitado que eles completem 2 posts, que são individuais, ma
 > Este código será solicitado a ser escrito na linguagem Python, portanto, você deve ter conhecimento prévio do mesmo.
 
 Portanto, uma vez concluídas as 2 etapas, deve haver 1 arquivo .py com o código para validar as tarefas + os arquivos de texto que são solicitados a serem criados (se solicitados)...
+
+Portanto, uma vez concluídas as 2 etapas, você deve ter 1 ou 2 arquivos .py com o código para validar as tarefas + os arquivos de texto que são solicitados a serem criados (se solicitados).
+
+Este é o segundo evento da série em que busca gerar uma competição (amigável) em busca de uma vaga para o 3º e último evento que acontecerá no último dia da TechWeek2022 no dia 17/11.
+
+Para isso, será solicitado que completem 2 posts, que são individuais, mas complementares, para que possam ser todos escritos no mesmo código com o nome epic2_group_n.py (onde 'n' é o número do grupo)
+
+> Este código será solicitado a ser escrito na linguagem Python, portanto, você deve ter conhecimento prévio dela.
+
+Portanto, uma vez concluídas as 2 etapas, deve haver 1 arquivo .py com o código para validar as tarefas + os arquivos de texto que são solicitados a serem criados (se solicitados)...
+
 
 ## Infraestructura
 
